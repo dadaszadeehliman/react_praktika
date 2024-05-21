@@ -1,0 +1,24 @@
+img{
+    width: 150px;
+    height: 120px;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+table,thead,tbody,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    margin: 0 10px;
+}
+.add{
+    margin-left: 25.5%;
+    margin-bottom: 10px;
+}
